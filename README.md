@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Daivik Domadiya 
 
-<!--
-**daicikd/daicikd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science major at **San Francisco State University**  
+ Passionate about **building, learning, and contributing** to the internet  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I'm up to
+- Exploring **random projects** to learn and grow  
+- Currently diving into **Flutter** & **SwiftUI**  
+- Sharpening my **Java**, **C++**, and **Data Structures & Algorithms** skills  
+
+---
+
+### Beyond Code
+- Trying to read more books  
+- Big fan of **cricket**, but always down for any sport on the field  
+
+---
+ _Always curious, always building._  
+
+
