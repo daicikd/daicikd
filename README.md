@@ -45,6 +45,6 @@ The first recorded computer "bug" was an actual moth, found stuck in a relay of 
 
 ## Reach me
 
- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
+ [LinkedIn](https://www.linkedin.com/in/daivikd/) · [Email](mailto:daivikdomadiya04@gmail.com)
 
 If you're hiring, building something interesting, or want to argue about tabs vs. spaces, my inbox is open.
